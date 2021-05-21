@@ -1,0 +1,24 @@
+{
+  "name": "note-taking-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-Springworks/NoteTakingAPI.git"
+  },
+  "author": "Shubham Singh Lodhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-Springworks/NoteTakingAPI/issues"
+  },
+  "homepage": "https://github.com/shubham-Springworks/NoteTakingAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
