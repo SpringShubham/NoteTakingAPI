@@ -48,7 +48,7 @@ app.delete('/note/:title', (req, res) => {
         return false;
     });
 
-    res.send(`${title} Notes is Deleted`)
+    res.send(`${title} Note is Deleted`)
 
 })
 
