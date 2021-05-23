@@ -33,7 +33,7 @@ app.post('/newNote', (req, res) => {
 
 
 
-    res.send(`Your Note ${newNote.title} is Added`)
+    res.send(`Your Notes ${newNote.title} is Added`)
 })
 
 app.delete('/note/:title', (req, res) => {
